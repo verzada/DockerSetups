@@ -1,5 +1,3 @@
-﻿choco 
-
 docker pull mcr.microsoft.com/mssql/server
 
 $sqlVolume = "D:\Docker\SQLServer\data:/var/opt/mssql/data"
